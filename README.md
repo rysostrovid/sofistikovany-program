@@ -1,4 +1,4 @@
-zvieracina
+sofistikovany program
 ==========
 
-nieco zvieracie
+nieco blisie
